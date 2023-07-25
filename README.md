@@ -1,7 +1,7 @@
 # evar64
 a 'library' for commodore 64 extended variables
 
-#Extended Variables for commodore 64 BASIC (Written in BASIC)
+# Extended Variables for commodore 64 BASIC (Written in BASIC)
 ## What is it?
 Just a simple dictionary that provide extended variables. The name of the variable can be 255 characters long.
 ## How to use
